@@ -1,0 +1,31 @@
+========================================================================
+                      LABORATORY REPORT (PREVIEW)
+========================================================================
+Patient Name:  Bekele Tesfaye               Date:        06/20/2026
+Age / Gender:  45 / Male                    Fasting:     Yes (12 hours)
+Ethnicity:     East African (Ethiopian)     Physician:   Dr. M. Kebede
+
+------------------------------------------------------------------------
+TEST DESCRIPTION           RESULT       REFERENCE RANGE       STATUS
+------------------------------------------------------------------------
+
+COMPLETE BLOOD COUNT (CBC)
+White Blood Cells (WBC)    3.2 x10^3/uL 4.5 - 11.0 x10^3/uL   LOW *
+Red Blood Cells (RBC)      4.9 x10^6/uL 4.3 - 5.9 x10^6/uL    NORMAL
+Hemoglobin                 12.8 g/dL    13.5 - 17.5 g/dL      LOW
+Hematocrit                 39.2 %       41.5% - 50.4%         LOW
+MCV                        80.0 fL      80.0 - 100.0 fL       NORMAL
+Platelets                  210 x10^3/uL 150 - 450 x10^3/uL    NORMAL
+
+METABOLIC & LIPID PANEL
+Fasting Blood Glucose      88 mg/dL     70 - 99 mg/dL         NORMAL
+HbA1c                      5.2 %        < 5.7 %               NORMAL
+Total Cholesterol          165 mg/dL    < 200 mg/dL           NORMAL
+Triglycerides              110 mg/dL    < 150 mg/dL           NORMAL
+HDL Cholesterol            42 mg/dL     > 40 mg/dL            NORMAL
+LDL Cholesterol            101 mg/dL    < 100 mg/dL           BORDERLINE
+
+VITAMINS & MICRONUTRIENTS
+Vitamin D, 25-Hydroxy      18 ng/mL     30 - 100 ng/mL        DEFICIENT
+Vitamin B12                310 pg/mL    200 - 900 pg/mL       NORMAL
+Ferritin                   18 ng/mL     30 - 400 ng/mL        LOW
